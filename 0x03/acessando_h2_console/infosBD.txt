@@ -1,4 +1,4 @@
 1. DEMOBD.MV.DB
 2. jdbc:h2:file:./bd/demobd
-3. SA
+3. User Name: SA
 
