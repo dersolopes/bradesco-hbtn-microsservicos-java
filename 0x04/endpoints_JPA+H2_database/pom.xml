@@ -5,16 +5,29 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.18</version>
+		<version>3.4.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>jpa-h2-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpa-h2-demo</name>
-	<description>Projeto Demo usando Spring Boot JPA + H2 Database</description>
+	<description>PProjeto Demo usando Spring Boot JPA + H2 Database</description>
+	<url/>
+	<licenses>
+		<license/>
+	</licenses>
+	<developers>
+		<developer/>
+	</developers>
+	<scm>
+		<connection/>
+		<developerConnection/>
+		<tag/>
+		<url/>
+	</scm>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -61,4 +74,3 @@
 	</build>
 
 </project>
-

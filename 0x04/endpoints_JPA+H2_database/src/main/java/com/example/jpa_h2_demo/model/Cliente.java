@@ -2,7 +2,6 @@ package com.example.jpa_h2_demo.model;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,7 +27,7 @@ public class Cliente {
 
     public Cliente() {}
 
-    public Cliente(String nome, '' int idade, String email) {
+    public Cliente(String nome, int idade, String email) {
         this.nome = nome;
         this.idade = idade;
         this.email = email;
